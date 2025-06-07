@@ -1,0 +1,7 @@
+export const TaskConstants = {
+  MAX_TITLE_LENGTH: 100,
+  MAX_DESCRIPTION_LENGTH: 2000,
+  DEFAULT_PAGE_SIZE: 10,
+  DEFAULT_SORT_FIELD: 'createdAt',
+  DEFAULT_SORT_DIRECTION: 'desc'
+};
